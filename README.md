@@ -5,4 +5,4 @@ La base de datos está conformada por más de 3600 clientes potenciales y de aqu
 
 La base de datos que se utilizó se encuentra en este link: https://raw.githubusercontent.com/brewing-datacup/reto-mexico-2020/main/data/ubicaciones.csv
 
-Link Colab: https://colab.research.google.com/drive/1iLUYk8JhxBuZYQPM-HgPOTNPHM4cGBK8#scrollTo=ouJ7w8Didx_Q&uniqifier=1
+Link Colab: https://colab.research.google.com/drive/1iLUYk8JhxBuZYQPM-HgPOTNPHM4cGBK8?usp=sharing
